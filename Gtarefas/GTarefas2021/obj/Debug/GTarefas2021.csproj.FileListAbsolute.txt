@@ -1,0 +1,13 @@
+C:\Users\Pichau\OneDrive\Área de Trabalho\Aula do Bruno\Gtarefas\GTarefas2021\bin\Debug\GTarefas2021.exe.config
+C:\Users\Pichau\OneDrive\Área de Trabalho\Aula do Bruno\Gtarefas\GTarefas2021\bin\Debug\GTarefas2021.exe
+C:\Users\Pichau\OneDrive\Área de Trabalho\Aula do Bruno\Gtarefas\GTarefas2021\bin\Debug\GTarefas2021.pdb
+C:\Users\Pichau\OneDrive\Área de Trabalho\Aula do Bruno\Gtarefas\GTarefas2021\obj\Debug\GTarefas2021.csprojAssemblyReference.cache
+C:\Users\Pichau\OneDrive\Área de Trabalho\Aula do Bruno\Gtarefas\GTarefas2021\obj\Debug\GTarefas2021.FCadStatus.resources
+C:\Users\Pichau\OneDrive\Área de Trabalho\Aula do Bruno\Gtarefas\GTarefas2021\obj\Debug\GTarefas2021.FPrincipal.resources
+C:\Users\Pichau\OneDrive\Área de Trabalho\Aula do Bruno\Gtarefas\GTarefas2021\obj\Debug\GTarefas2021.Properties.Resources.resources
+C:\Users\Pichau\OneDrive\Área de Trabalho\Aula do Bruno\Gtarefas\GTarefas2021\obj\Debug\GTarefas2021.csproj.GenerateResource.cache
+C:\Users\Pichau\OneDrive\Área de Trabalho\Aula do Bruno\Gtarefas\GTarefas2021\obj\Debug\GTarefas2021.csproj.CoreCompileInputs.cache
+C:\Users\Pichau\OneDrive\Área de Trabalho\Aula do Bruno\Gtarefas\GTarefas2021\obj\Debug\GTarefas2021.exe
+C:\Users\Pichau\OneDrive\Área de Trabalho\Aula do Bruno\Gtarefas\GTarefas2021\obj\Debug\GTarefas2021.pdb
+C:\Users\Pichau\OneDrive\Área de Trabalho\Aula do Bruno\Gtarefas\GTarefas2021\obj\Debug\GTarefas2021.FCadTarefa.resources
+C:\Users\Pichau\OneDrive\Área de Trabalho\Aula do Bruno\Gtarefas\GTarefas2021\obj\Debug\GTarefas2021.FCadResponsavel.resources
